@@ -4,6 +4,10 @@
 
 A small native macOS app that batch-converts HEIF / HEIC photos to PNG. All image processing happens locally, using Apple's Image I/O framework. No third-party dependencies.
 
+## 界面预览
+
+![HEIF to PNG 应用界面：拖拽批量转换、自定义保存位置和转换记录](docs/images/app.png)
+
 ## 功能
 
 - 拖拽添加图片，或通过文件选择器批量添加。
